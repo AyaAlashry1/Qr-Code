@@ -1,0 +1,28 @@
+﻿body
+{margin:20px auto;
+}
+.container{
+   padding:20px;
+    margin:20px auto;
+    justify-content:center;
+}
+img{
+    width:350px;
+    margin:20px auto;
+    left:560px;
+    position:relative;
+}
+.para{
+    font-size:23px;
+    font-weight:bold;
+    line-height:1.5;
+    text-align:center;
+    margin-bottom:20px;
+}
+.para2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: gray;
+    line-height: 1.5;
+    text-align: center;
+}
